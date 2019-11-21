@@ -1,0 +1,9 @@
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\bin\Release\ajedrezForm.exe.config
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\bin\Release\ajedrezForm.exe
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\bin\Release\ajedrezForm.pdb
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Release\ajedrezForm.Form1.resources
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Release\ajedrezForm.Form2.resources
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Release\ajedrezForm.Properties.Resources.resources
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Release\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Release\ajedrezForm.exe
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Release\ajedrezForm.pdb

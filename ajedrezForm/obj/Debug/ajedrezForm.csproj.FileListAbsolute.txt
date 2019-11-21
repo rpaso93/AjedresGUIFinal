@@ -1,0 +1,160 @@
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Ger\Desktop\Programacion GUI I\2019\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Dani\Desktop\ajedrezForm (2)\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Alumno\Desktop\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Alumno\Desktop\ajedrez\ajedrezForm\ajedrezForm\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.csprojAssemblyReference.cache
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.cache
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\dimas\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.0.0\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.0\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.1\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.2\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.1.3\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.0\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\obj\Debug\ajedrezForm.Form2.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Agustin Laporta\Source\Repos\AjedrezGUI 2.2.1\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Debug\ajedrezForm.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Debug\ajedrezForm.Form2.resources
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Alumno\Desktop\AjedrezGUI 3.0.0\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.Cache
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.Form2.resources
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\dimas\Desktop\Gui\AjedrezGUI\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\ajedrezForm.exe.config
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\ajedrezForm.exe
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\ajedrezForm.pdb
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.csprojAssemblyReference.cache
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.Form1.resources
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.Form2.resources
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.Properties.Resources.resources
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.csproj.GenerateResource.cache
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.exe
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.pdb
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.Historial.resources
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\EntityFramework.dll
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\System.Data.SQLite.dll
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\EntityFramework.xml
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\System.Data.SQLite.xml
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Patricio\Desktop\GUI ajedrez\AjedrezGUI-master\ajedrezForm\obj\Debug\ajedrezForm.csproj.CopyComplete
